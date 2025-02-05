@@ -77,15 +77,6 @@ AtliQo Bank is a new entrant in India's competitive banking market. The goal is 
 
 ---
 
-## 🗂️ Repository Structure
-├── data/ # Contains sample datasets (if permissible)
-├── notebooks/ # Jupyter notebooks for Phase 1 and Phase 2
-├── images/ # Visualizations used in README or analysis
-├── README.md # Project overview and documentation
-text
-
----
-
 ## 💡 Takeaways
 This project enhanced my skills in:
 1. Cleaning and preprocessing real-world datasets.
